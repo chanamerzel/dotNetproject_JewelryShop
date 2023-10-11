@@ -1,0 +1,13 @@
+C:\Users\Chani\Desktop\לימודים\c#\אחרון חביב\dotNet5783_5296_3351\targil1\bin\DalXml.deps.json
+C:\Users\Chani\Desktop\לימודים\c#\אחרון חביב\dotNet5783_5296_3351\targil1\bin\DalXml.dll
+C:\Users\Chani\Desktop\לימודים\c#\אחרון חביב\dotNet5783_5296_3351\targil1\bin\DalXml.pdb
+C:\Users\Chani\Desktop\לימודים\c#\אחרון חביב\dotNet5783_5296_3351\targil1\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Users\Chani\Desktop\לימודים\c#\אחרון חביב\dotNet5783_5296_3351\targil1\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\Desktop\לימודים\c#\אחרון חביב\dotNet5783_5296_3351\targil1\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Users\Chani\Desktop\לימודים\c#\אחרון חביב\dotNet5783_5296_3351\targil1\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Users\Chani\Desktop\לימודים\c#\אחרון חביב\dotNet5783_5296_3351\targil1\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Users\Chani\Desktop\לימודים\c#\אחרון חביב\dotNet5783_5296_3351\targil1\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+C:\Users\Chani\Desktop\לימודים\c#\אחרון חביב\dotNet5783_5296_3351\targil1\DalXml\obj\Debug\DalXml.dll
+C:\Users\Chani\Desktop\לימודים\c#\אחרון חביב\dotNet5783_5296_3351\targil1\DalXml\obj\Debug\refint\DalXml.dll
+C:\Users\Chani\Desktop\לימודים\c#\אחרון חביב\dotNet5783_5296_3351\targil1\DalXml\obj\Debug\DalXml.pdb
+C:\Users\Chani\Desktop\לימודים\c#\אחרון חביב\dotNet5783_5296_3351\targil1\DalXml\obj\Debug\ref\DalXml.dll
