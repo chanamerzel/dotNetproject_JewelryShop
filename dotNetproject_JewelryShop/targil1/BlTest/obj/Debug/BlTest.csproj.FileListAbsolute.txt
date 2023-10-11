@@ -1,0 +1,16 @@
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\bin\BlTest.exe
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\bin\BlTest.deps.json
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\bin\BlTest.runtimeconfig.json
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\bin\BlTest.dll
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\bin\BlTest.pdb
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\BlTes\obj\Debug\BlTest.csproj.AssemblyReference.cache
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\BlTes\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\BlTes\obj\Debug\BlTest.AssemblyInfoInputs.cache
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\BlTes\obj\Debug\BlTest.AssemblyInfo.cs
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\BlTes\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\BlTes\obj\Debug\BlTest.csproj.CopyComplete
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\BlTes\obj\Debug\BlTest.dll
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\BlTes\obj\Debug\refint\BlTest.dll
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\BlTes\obj\Debug\BlTest.pdb
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\BlTes\obj\Debug\BlTest.genruntimeconfig.cache
+C:\Users\Chani\Desktop\לימודים\c#\last\dotNet5783_5296_3351\targil1\BlTes\obj\Debug\ref\BlTest.dll
